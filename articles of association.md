@@ -7,9 +7,8 @@
         3. The distribution of feather and associated software and tools
 3. Membership
     1. Anyone can be admitted as a Paying Member.
-    2. Registration takes place on the association's registration form. The membership is only valid when the Paying Member has paid the membership fee. -->
-    3. Withdrawal can be done by writing to the treasurer with effect from the end of a financial year.
-    4. Paying Members pay a membership fee determined by the general meeting. The quota is charged by the end of the financial year. 
+    2. Registration takes place on the association's registration form. The membership becomes valid once the Paying Member has paid the membership fee. The membership lasts for one financial year from the date of payment.
+    3. Paying Members pay a membership fee determined by the general meeting.
 4. General Assembly
     1. The general meeting is the highest authority of the association.
     2. The Annual General Meeting is held once a year before the end of the ______ month and is convened with at least three weeks' notice by email to active members.
